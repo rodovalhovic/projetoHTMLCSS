@@ -1,0 +1,119 @@
+.titulo-principal{
+   font-size: 30px;
+   font-size: 1.88rem;
+   border-bottom: 6px solid #000;
+   border-bottom: .37rem solid #000;
+}
+
+.subtitulo-principal{
+	font-size: 20px;
+	font-size: 1.25rem;
+}
+
+.titulo-principal, .subtitulo-principal{
+	background-color: #F0FFFF;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+header h1{
+	color: #000;
+}
+
+.foto-index,{
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 710px;
+    right: 45rem;
+
+    /*    float: center;
+    margin-left: -125px;*/
+}
+
+main {
+    width: 100%;
+    padding-bottom: 0;
+    float: none;
+}
+
+.saudacao{
+	float: none;
+	width: 100%;
+	padding-bottom: none;
+}
+
+.saudacao p{
+	color: #99A;
+	line-height: 1;
+	padding: 30px;
+	padding: 1.88rem;
+	font-size: 20px;
+	font-size: 1.25rem;
+	text-align: center;
+	padding: 50px;
+	padding: 3.13rem;
+}
+
+.saudacao-inicio{
+	color: #B2DFEE;
+	font-size: 60px;
+	font-size: 3.75rem;
+}
+
+.saudacao strong{
+	font-weight: bold;
+	font-size: 30px;
+	font-size: 1.88rem;
+	color: #000;
+}
+
+.saudacao em{
+	font-family: "Shadows Into Lights";
+	font-size: 40px;
+	font-size: 2.5rem;
+	color: #3A5FCD;
+}
+
+.botao-index{
+	border: 6px solid black;
+	border: .37rem solid black;
+	margin: 20px;
+	margin: 1.25rem;
+	padding: 10px;
+	padding: 0.63rem;
+	font-size: 20px;
+	font-size: 1.25rem;
+	background-color: #3A5FCD;
+	width: 400px;
+	width: 25rem;
+	display: block;
+	color: #FFF;
+	text-align: center;
+}
+
+.secao-inicio{
+	padding: 20px;
+	padding: 1.25rem;
+}
+
+.trabalhos{
+	background-color: #3A5FCD;
+	border-top: 6px solid #000;
+	border-top: .37rem solid #000;
+	border-bottom: 6px solid #000;
+	border-bottom: .37rem solid #000;
+	padding: 20px;
+	padding: 1.25rem;
+}
+
+.trabalhos h2{
+    color: #FFF;
+}
+
+.footer{
+	padding: 20px;
+	padding: 1.25rem;
+	border-bottom: 6px solid #000;
+	border-bottom: .37rem solid #000;
+}
